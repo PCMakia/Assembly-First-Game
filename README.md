@@ -12,6 +12,10 @@ You will type -1 if your number is smaller than program's guess
 If the program's guess match your number, type 0 to end the game.
 
 # How to run
-Copy the code from txt file and put them in "source" tab of PEP/9 virtural environment. Hit run to run the code.
+Copy the code from txt file and put them in "source" tab of PEP/9 virtural environment. Or open pep file in PEP/9.
+
+Change view to "Terminal I/O".
+
+Hit run to run the code.
 
 Link to PEP/9 download page: https://computersystemsbook.com/5th-edition/pep9/
